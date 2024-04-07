@@ -1,0 +1,2 @@
+https://www.tensorflow.org/tutorials/images/transfer_learning
+https://www.sciencedirect.com/science/article/abs/pii/S0925231220306123
