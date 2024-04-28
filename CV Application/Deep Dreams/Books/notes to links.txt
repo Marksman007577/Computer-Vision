@@ -1,0 +1,2 @@
+https://research.google/blog/inceptionism-going-deeper-into-neural-networks/
+https://deepdreamgenerator.com/
